@@ -29,7 +29,7 @@
 Подаючи будь-який внесок (код, схему, документацію, зображення чи інші матеріали) через Pull Request, Issue чи іншим способом, ви підтверджуєте та погоджуєтеся з таким:
 
 1. **Авторство.** Внесок створено вами, або ви маєте право передати його на умовах цієї угоди.
-2. **Надання прав.** Ви надаєте автору проєкту ([Vitalii Buchyn]) безстрокову, всесвітню, безвідкличну, безоплатну, невиключну ліцензію на використання, відтворення, зміну, поширення та сублі­цензування вашого внеску, а також на поширення його під будь-якою ліцензією на розсуд автора проєкту, зокрема відкритою чи комерційною.
+2. **Надання прав.** Ви надаєте автору проєкту (Vitalii Buchyn) безстрокову, всесвітню, безвідкличну, безоплатну, невиключну ліцензію на використання, відтворення, зміну, поширення та сублі­цензування вашого внеску, а також на поширення його під будь-якою ліцензією на розсуд автора проєкту, зокрема відкритою чи комерційною.
 3. **Патенти.** Якщо ваш внесок охоплюється патентом, власником якого ви є, ви надаєте автору проєкту та користувачам проєкту безоплатну ліцензію на використання цього патенту в межах проєкту.
 4. **Збереження ваших прав.** Ви зберігаєте авторське право на свій внесок і можете використовувати його на власний розсуд.
 5. **Без гарантій.** Внесок надається «як є», без будь-яких гарантій.
@@ -44,4 +44,4 @@
 
 Contributions are welcome via Issues and Pull Requests. Please do not upload real patient recordings without de-identification and written informed consent.
 
-**Contributor License Agreement (summary):** by submitting a contribution you confirm it is your own work (or you have the right to submit it), and you grant the project author ([Vitalii Buchyn]) a perpetual, worldwide, irrevocable, royalty-free, non-exclusive license to use, reproduce, modify, distribute and sublicense it, including under any open or commercial license chosen by the project author. You keep the copyright to your contribution. Contributions are provided "as is", without warranties. To confirm, add to your first Pull Request: *"I have read and agree to the Vdykh Contributor License Agreement."*
+**Contributor License Agreement (summary):** by submitting a contribution you confirm it is your own work (or you have the right to submit it), and you grant the project author (Vitalii Buchyn) a perpetual, worldwide, irrevocable, royalty-free, non-exclusive license to use, reproduce, modify, distribute and sublicense it, including under any open or commercial license chosen by the project author. You keep the copyright to your contribution. Contributions are provided "as is", without warranties. To confirm, add to your first Pull Request: *"I have read and agree to the Vdykh Contributor License Agreement."*
