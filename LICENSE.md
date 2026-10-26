@@ -1,6 +1,6 @@
 # Умови використання / Terms of Use
 
-Copyright © 2026 [Ваше ім'я]. Усі права захищені. All rights reserved.
+Copyright © 2026 [Vitalii Buchyn]. Усі права захищені. All rights reserved.
 
 ## Українською
 
