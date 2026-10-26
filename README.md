@@ -65,7 +65,7 @@
 - **Фахівців з обробки звуку та ML** — шумозаглушення, розпізнавання патологічних звуків
 - **Промислових дизайнерів** — корпус, ергономіка
 
-Хочете долучитися? Прочитайте [CONTRIBUTING.md](CONTRIBUTING.md) і відкрийте Issue або напишіть: **[ваш email / LinkedIn]**
+Хочете долучитися? Прочитайте [CONTRIBUTING.md](CONTRIBUTING.md) і відкрийте Issue або напишіть: **[visionregion@gmail.com / [LinkedIn](https://www.linkedin.com/in/vitalii-buchyn-88087824)]**
 
 ## Умови використання
 
