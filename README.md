@@ -81,4 +81,4 @@
 
 **This is a research prototype, not a medical device.** All rights reserved at this stage; an open license may be applied later. Contributions are welcome under the contributor agreement in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-© 2026 [Ваше ім'я]
+© 2026 [Vitalii Buchyn]
