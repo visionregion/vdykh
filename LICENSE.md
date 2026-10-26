@@ -19,7 +19,7 @@ Copyright © 2026 [Ваше ім'я]. Усі права захищені. All ri
 
 Автор залишає за собою право в майбутньому поширювати ці матеріали або їх нові версії під відкритою ліцензією (наприклад, CERN-OHL-S для апаратної частини).
 
-Запити на дозвіл: **[ваш email]**
+Запити на дозвіл: **[visionregion@gmail.com]**
 
 ## English
 
@@ -31,4 +31,4 @@ All materials in this repository (texts, schematics, drawings, source code, imag
 
 The author reserves the right to release these materials or future versions under an open license (e.g. CERN-OHL-S for hardware) at a later date.
 
-Permission requests: **[your email]**
+Permission requests: **[visionregion@gmail.com]**
