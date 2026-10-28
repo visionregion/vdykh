@@ -1,0 +1,29 @@
+# Аудіозаписи — не комітимо, щоб випадково не опублікувати дані пацієнтів
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+recordings/
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# PlatformIO / Arduino
+.pio/
+build/
+
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# Системні
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

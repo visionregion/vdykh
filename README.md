@@ -1,3 +1,5 @@
+[English](README.en.md) · **Українська**
+
 # Вдих (Vdykh) — відкритий Bluetooth-стетоскоп для дистанційної аускультації
 
 > ⚠️ **Дослідницький прототип. Не є медичним виробом.** Не використовуйте для діагностики чи лікування. Див. [DISCLAIMER.md](DISCLAIMER.md).
@@ -48,13 +50,15 @@
 
 ```
 ├── README.md              — цей файл
+├── README.en.md           — англійська версія
 ├── LICENSE.md             — умови використання
 ├── DISCLAIMER.md          — застереження щодо медичного використання
 ├── CONTRIBUTING.md        — як долучитися + угода учасника
 └── docs/
     ├── hardware-concept.md — технічна концепція пристрою
     ├── bom-stage1.md       — компоненти для етапу 1
-    └── roadmap.md          — план розвитку
+    ├── roadmap.md          — план розвитку
+    └── en/                 — англійські версії документів
 ```
 
 ## Кого шукаємо
@@ -74,6 +78,8 @@
 ---
 
 ## English summary
+
+Full English version: [README.en.md](README.en.md).
 
 **Vdykh** ("inhale" in Ukrainian) is an early-stage project for a low-cost Bluetooth digital stethoscope that lets patients record lung sounds at home with app guidance, so their family doctor can listen remotely. It is part of a broader concept of an AI assistant for primary care physicians in Ukraine, where the doctor always makes the final decision.
 
